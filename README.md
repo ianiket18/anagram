@@ -20,6 +20,12 @@ Test cases reside in
 ./test/anagram.js
 ```
 
+Test cases can be run using
+
+```
+npm test
+```
+
 ## Usage
 
 #### Anagram by character array
