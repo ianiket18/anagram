@@ -1,5 +1,12 @@
 # Anagram Module for NodeJS
 
+## Assumptions
+
+Stripped down the strings to lower case alphabetic characters.
+
+Ignored all the symbols and numeric characters.
+
+
 ## AnagramHash
 
 Calculate Hash value for both the strings and compare for equality to check if anagrams. Used a list of primes of size 26 and assigned a prime for every character which were multiplied to calculate Hash value.
