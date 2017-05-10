@@ -1,0 +1,25 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "Check if strings are anagram of each other.",
+  "main": "anagram.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianiket18/anagram.git"
+  },
+  "author": "Aniket Patel <ianiket18@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianiket18/anagram/issues"
+  },
+  "homepage": "https://github.com/ianiket18/anagram#readme",
+  "devDependencies": {
+    "async": "^2.4.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0",
+    "promise": "^7.1.1"
+  }
+}
