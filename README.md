@@ -11,6 +11,13 @@ Because multiplication and modulus division (which are slower operations) is inv
 
 Used a character array of size 26 to save occurrences of a character in the string. Incremented and decremented to ensure that the strings are anagrams.
 
+## Dependencies
+Do not forget to install dependencies before using.
+
+```
+npm install
+```
+
 ## Test
 Used Mocha and chai (used documentation for implementing) for test case generation for following TDD.
 
